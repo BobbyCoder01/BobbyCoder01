@@ -1,12 +1,10 @@
     <li>📫 How to reach me <a href="mailto:bobbycoder01@gmail.com"> Bobbycoder01@gmail.com </li>
-<h1 align="center">Hi 👋, I'm Ravinder singh</h1>
-<h3 align="center">A passionate java full-stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Bobby singh</h1>
+<h3 align="center">A passionate full-stack developer | Freelancer from India</h3>
 
 - 🔭 I’m currently working on **E-commerce**
 
-- 📝 I regularly write articles on [https://medium.com/@ravinderfzk06](https://medium.com/@ravinderfzk06)
-
-- 📫 How to reach me **ravinderfzk06@gmail.com**
+- 📫 How to reach me **Bobbycoder01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
