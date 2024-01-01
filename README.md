@@ -1,4 +1,4 @@
-    <li>📫 How to reach me <a href="mailto:bobbycoder01@gmail.com"> Bobbycoder01@gmail.com </li>
+
 <h1 align="center">Hi 👋, I'm Bobby singh</h1>
 <h3 align="center">A passionate full-stack developer | Freelancer from India</h3>
 
