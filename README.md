@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@bobbycoder01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@bobbycoder01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bobbycoder01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bobbycoder01" height="30" width="40" /></a>
 <a href="https://fb.com/@bobbycoder01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@bobbycoder01" height="30" width="40" /></a>
-<a href="https://instagram.com/@bobby_coder_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bobby_coder_01" height="30" width="40" /></a>
+<a href="https://instagram.com/bobby_coder_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bobby_coder_01" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@bobbycoder01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bobbycoder01" height="30" width="40" /></a>
 </p>
 
