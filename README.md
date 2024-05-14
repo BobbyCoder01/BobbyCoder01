@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">My name is Bobby Singh and I'm a Full Stack Developer from India.</h4>
+<h2 align="center">My name is Bobby Singh and I'm a Full Stack Developer from India.</h2>
 
 ###
 
